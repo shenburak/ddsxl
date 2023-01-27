@@ -3,4 +3,5 @@
 
 # Documentation
 
-- [tr](/docs/tr/README.md)
+- EN
+- [TR](/docs/tr/README.md)
